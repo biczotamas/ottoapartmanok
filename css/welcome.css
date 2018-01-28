@@ -1,0 +1,28 @@
+.welcome {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 20px;
+  background-color: white;
+}
+
+.welcome-text {
+  text-align: center;
+}
+
+.rounded-circle {
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 10px;
+    transition: 0.3s;
+    height: 200px;
+    background: white;
+}
+
+.card {
+  text-align: center;
+}
