@@ -2,3 +2,7 @@ body {
   background-image: url('greyzz.png');
   background-repeat: repeat;
 }
+
+* {
+  font-family: "Times New Roman", Times, serif;
+}
